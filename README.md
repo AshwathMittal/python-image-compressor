@@ -5,4 +5,4 @@ A simple image compressor made in python.
 ## pip install pillow
 ## python comprs.py
 ## choose the image file
-## save the file with <filename>.<extensionoftheimagefile>
+## save the file with (filename).(extensionoftheimagefile)
